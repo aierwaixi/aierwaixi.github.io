@@ -2,7 +2,7 @@
 title: "TKGAT: Graph attention network for knowledge-enhanced tag-aware recommendation system"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
-date: 2022
+date: 2022-09-19
 venue: 'Knowledge-Based Systems'
 paperurl: 'https://dl.acm.org/doi/abs/10.1016/j.knosys.2022.109903'
 citation: 'Beilun Wang, Haoqing Xu, Chunshu Li, **Yuchen Li**, Meng Wang'
