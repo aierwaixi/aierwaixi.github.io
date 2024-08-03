@@ -7,7 +7,8 @@ redirect_from:
   - /about.html
 ---
 
-I am a second year Master student in Department of Electrical and Computer Engineering, Univiersity of California, San Diego. Before that, I received my B.E. degree in Artificial Intelligence from Southeast University, advised by Prof. [Beilun Wang](https://xgbxscwx.seu.edu.cn/wang-labsite/).
+* I am a second year Master student in Department of Electrical and Computer Engineering, Univiersity of California, San Diego. Before that, I received my B.E. degree in Artificial Intelligence from Southeast University, advised by Prof. [Beilun Wang](https://xgbxscwx.seu.edu.cn/wang-labsite/).
+* My research interest is Machine Learning, Computer Vision and Applications in Medical Image Analysis.
 
 
 
