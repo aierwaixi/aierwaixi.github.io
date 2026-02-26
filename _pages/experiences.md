@@ -6,6 +6,10 @@ author_profile: true
 ---
 
 ## Education
+* <b>The University of Sydney, Sydney, Australia</b> <span style="float:right;"> Mar. 2026 - now </span>
+    * Ph.D. in Electrical and Computer Engineering
+    * <i>Supervisor</i>: [Luping Zhou](https://sites.google.com/view/lupingzhou)
+
 * <b>University of California, San Diego, U.S.</b> <span style="float:right;"> Sep 2023 - now </span>
     * M.S. in Electrical and Computer Engineering, Machine Learning & Data Science
 
