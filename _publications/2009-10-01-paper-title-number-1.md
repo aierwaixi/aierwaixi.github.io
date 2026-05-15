@@ -4,6 +4,10 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+<b>Semi-MedRef: Semi-Supervised Medical Referring Image Segmentation with Cross-Modal Alignment</b><br>
+<b>Yuchen Li</b>, Zhen Zhao, Yi Liu, Luping Zhou<br>
+<i>arXiv preprint, 2026</i>.<br>
+
 <b>Am-sam: a spatially-aware prompt learning and mask calibration framework for few-shot semantic segmentation</b><br>
 <b>Yuchen Li</b>, Li Zhang, Youwei Liang, Pengtao Xie<br>
 <i>International Journal of Machine Learning and Cybernetics, 2026</i>.<br>
