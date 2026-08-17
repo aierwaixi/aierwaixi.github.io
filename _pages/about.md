@@ -14,7 +14,7 @@ redirect_from:
 
 ## Academic Service
 
-* Reviewer, **IEEE Transactions on Medical Imaging (TMI)**
-* Reviewer, **MICCAI 2026**
+* Reviewer, IEEE Transactions on Medical Imaging (TMI)
+* Reviewer, MICCAI 2026
 
 
