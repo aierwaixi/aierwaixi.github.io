@@ -11,7 +11,7 @@ redirect_from:
 * My research interests include computer vision, multi-modal learning and medical image analysis.
 * I am honored to be supported by the **China Scholarship Council (CSC)** for my Ph.D. studies at the University of Sydney.
 
- ## Education
+## Education
 
 * <b>The University of Sydney, Australia</b> <span style="float:right;"> Mar. 2026 - Present </span>
     * Ph.D. student in Electrical and Computer Engineering
