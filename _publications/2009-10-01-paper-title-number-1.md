@@ -5,9 +5,10 @@ permalink: /publications/
 author_profile: true
 ---
 <b>DAR-Net: Resolving visual and semantic ambiguity for open-vocabulary camouflaged object segmentation</b><br>
-Xiaoao Zhou, <b>Yuchen Li</b>, Yi Liu, Kunpeng Wang, Chengxin Li, Shuyi Liu, Shoukun Xu<br>
-<i>Journal of Visual Communication and Image Representation, 121, 104988, 2026</i>.<br>
-[Paper](https://doi.org/10.1016/j.jvcir.2026.104988)
+Xiaoao Zhou<sup>*</sup>, <b>Yuchen Li</b><sup>*</sup>, Yi Liu, Kunpeng Wang, Chengxin Li, Shuyi Liu, Shoukun Xu<br>
+<i>Journal of Visual Communication and Image Representation, 2026</i>.<br>
+[Paper](https://doi.org/10.1016/j.jvcir.2026.104988)<br>
+<small><sup>*</sup> Equal contribution.</small>
 
 <b>Semi-MedRef: Semi-Supervised Medical Referring Image Segmentation with Cross-Modal Alignment</b><br>
 <b>Yuchen Li</b>, Zhen Zhao, Yi Liu, Luping Zhou<br>
