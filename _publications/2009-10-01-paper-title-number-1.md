@@ -4,6 +4,11 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+<b>InstanceBench: Diagnosing Referential Reasoning and Target Identity in Referring Expression Segmentation</b><br>
+<b>Yuchen Li</b>, Shaoyang Zhou, Yiran Wang, Ruiyi Deng, Haoyu Wang, Ziru Wei, Zhen Zhao, Luping Zhou<br>
+<i>arXiv preprint, 2026</i>.<br>
+[Paper](https://arxiv.org/abs/2610.09478)
+
 <b>DAR-Net: Resolving visual and semantic ambiguity for open-vocabulary camouflaged object segmentation</b><br>
 Xiaoao Zhou<sup>*</sup>, <b>Yuchen Li</b><sup>*</sup>, Yi Liu, Kunpeng Wang, Chengxin Li, Shuyi Liu, Shoukun Xu<br>
 <i>Journal of Visual Communication and Image Representation, 2026</i>.<br>
