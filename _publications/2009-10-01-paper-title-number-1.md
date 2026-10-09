@@ -16,8 +16,9 @@ Xiaoao Zhou<sup>*</sup>, <b>Yuchen Li</b><sup>*</sup>, Yi Liu, Kunpeng Wang, Che
 <small><sup>*</sup> Equal contribution.</small>
 
 <b>Semi-MedRef: Semi-Supervised Medical Referring Image Segmentation with Cross-Modal Alignment</b><br>
-<b>Yuchen Li</b>, Zhen Zhao, Yi Liu, Luping Zhou<br>
+<b>Yuchen Li</b>, Ziru Wei, Zhen Zhao, Yi Liu, Luping Zhou<br>
 <i>arXiv preprint, 2026</i>.<br>
+[Paper](https://arxiv.org/abs/2605.15720)
 
 <b>Am-sam: a spatially-aware prompt learning and mask calibration framework for few-shot semantic segmentation</b><br>
 <b>Yuchen Li</b>, Li Zhang, Youwei Liang, Pengtao Xie<br>
